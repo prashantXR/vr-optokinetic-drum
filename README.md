@@ -65,7 +65,7 @@ Code and experimental setup details will be shared based on publication policies
 
 - Amaan Ranapurwala  
 - Jialin Zhang  
-- Prashant Rawat  
+- **Prashant Rawat**  
 - Rina Wehbe  
 - Anil Batmaz  
 - Mayra Donaji Barrera Machuca  
